@@ -42,11 +42,11 @@
       },
       "transitive_dependencies_names_list": {
         "contains": [
-          "js-tokens",
-          "lodash",
-          "loose-envify",
-          "react",
-          "react-is"
+          "js-tokens-4.0.0.tgz",
+          "lodash-4.17.21.tgz",
+          "loose-envify-1.4.0.tgz",
+          "react-18.3.1.tgz",
+          "react-is-18.3.1.tgz"
         ]
       },
       "_comment_dependencies_names_list": "Optional. Check specific libraries in direct dependencies. Operators: eq (==), contains (all items from expected list in actual), in(all items from actual list in expected), nin(actual list does not contain provided libs). If not provided, this check will not be performed.",
