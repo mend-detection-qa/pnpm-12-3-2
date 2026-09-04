@@ -1,0 +1,6 @@
+{
+  "name": "pnpm-import-version-preservation-probe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Probe: pnpm 12.3.2 import version preservation across workspace projects"
+}
