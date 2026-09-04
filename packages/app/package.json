@@ -1,0 +1,9 @@
+{
+  "name": "@probe/app",
+  "version": "1.0.0",
+  "description": "Workspace app: react + @probe/lib from workspace",
+  "dependencies": {
+    "@probe/lib": "workspace:*",
+    "react": "18.3.1"
+  }
+}
